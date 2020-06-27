@@ -1,7 +1,7 @@
 import fitz
 import re
 import json
-doc = fitz.open("THE.pdf")
+doc = fitz.open("The_Living_World.pdf")
 l = []
 skips = ['Solutions of Assignment (Set-2)','The Living World','Aakash Educational Services Pvt. Ltd. - Regd. Office : Aakash Tower, 8, Pusa Road, New Delhi-110005 Ph.011-47623456','Objective Type Questions','Solutions','Chapter 1']
 questions = {}
