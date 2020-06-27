@@ -1,0 +1,772 @@
+{
+  "questions": {
+    "1": "Which of the following is not a result of cell division?",
+    "2": "Mark the incorrect pair.",
+    "3": "Which of the following is incorrect for reproduction?",
+    "4": "Mark the incorrect statement w.r.t. metabolism.",
+    "5": "Non-living objects exhibit/show",
+    "6": "Which statement is false about the growth shown by non-living objects?",
+    "7": "Local names of various plants and animals",
+    "8": "Which of the following is incorrect w.r.t. Binomial nomenclature?",
+    "9": "What do A, B and C represent in the given scientific name respectively?",
+    "10": "Which of the following is incorrect regarding scientific names?",
+    "11": "According to binomial nomenclature, every living organism has",
+    "12": "Which of the following is incorrect w.r.t. Species?",
+    "13": "Taxonomy deals with",
+    "14": "Which of the following features are not shown by scientific names of various organism?",
+    "15": "The correct sequence of taxonomic study of a newly discovered organism is",
+    "16": "Which one of the following statements given below is not included in universal rules of nomenclature?",
+    "17": "Find the correct sequence of taxonomic categories.",
+    "18": "Which of the following is a class?",
+    "19": "______ is the assemblage of families which exhibit a few similar characters.",
+    "20": "Fill in the blanks A and B.",
+    "21": "Match the following columns",
+    "22": "Genus is a category which comes in between the",
+    "23": "Three different genera Solanum, Petunia and Datura are placed in the family",
+    "24": "Cat and dog are placed in which families respectively",
+    "25": "Which one of the following criteria is/are essential and form the basis of classical taxonomic studies?",
+    "26": "In which of the following pair of category, greater is the difficulty of determining the relationship to other taxa",
+    "27": "In taxonomic hierarchy, which of the following group of taxa will have less number of similarities as compared",
+    "28": "Taxonomic categories which come lower to the rank of class are",
+    "29": "Two animals A and B have similar morphological features and are fundamentally similar with each other, they",
+    "30": "A place used for storing, preservation and exhibition of both plants and animals is known as",
+    "31": "Herbarium consists of",
+    "32": "National Botanical Research Institute consists of",
+    "33": "Key is",
+    "34": "In zoological parks, animals are",
+    "35": "For identifying organisms through key usually",
+    "36": "Select correct statement for growth as one of the characteristic of living organisms.",
+    "37": "Reproduction is synonymous with growth in",
+    "38": "Carolus Linnaeus is the father of taxonomy because of one of his contributions",
+    "39": "Binomial epithet has",
+    "40": "Systematics is the study of",
+    "41": "Which one of the following criteria is/are essential and form the basis of modern taxonomic studies?",
+    "42": "Which one of the following is the first publication of Carolus Linnaeus?",
+    "43": "Scientific name Rattus rattus is an example of",
+    "44": "Given organisms belongs to how many genera?",
+    "45": "Organisms which can freely interbreed and produce fertile offspring and have similar coded information or blue",
+    "46": "The correct sequence of taxonomic categories is",
+    "47": "Two species can be said to be reproductively isolated if they are",
+    "48": "A genus having many species is known as",
+    "49": "In taxonomic hierarchy, which of the following group of taxa will have more number of similarities as compared",
+    "50": "In which of the following pair of category, greater is the difficulty of determining the relationship to other taxa",
+    "51": "Rice, cereals, monocots and plants represent",
+    "52": "The equivalent rank of Carnivora in taxonomic categories of man and housefly is respectively",
+    "53": "All given are suffixes used for category class, except",
+    "54": "Biological concept of species was given by ________ and it is based on ________",
+    "55": "Which category comes after phylum in descending order in taxonomic hierarchy?",
+    "56": "Order primata and carnivora are placed in the same class, i.e.",
+    "57": "Fishes, amphibians, reptiles and birds are kept in the same",
+    "58": "Choose odd one out w.r.t. Panthera leo",
+    "59": "Potato and brinjal belong to the genus Solanum, which reflects that",
+    "60": "Class mammalia consists of",
+    "61": "Dicots like mango, brinjal and monocot like wheat are placed under a common taxonomic category known as",
+    "62": "Rice and brinjal belong to the category ending with suffix",
+    "63": "Various taxonomic categories are",
+    "64": "Plants belonging to different classes, with a few similar characters are assigned to a category called",
+    "65": "Amongst the given taxonomic aids, how many are associated with preservation of specimens?",
+    "66": "Which of the following chemicals is used for poisoning the specimens in herbarium technique?",
+    "67": "The international size of herbarium sheet is",
+    "68": "Find the correct sequence of various steps of herbarium technique",
+    "69": "Select the correct match",
+    "70": "Live specimens are used for reference in taxonomic studies in",
+    "71": "The label of a herbarium sheet does not carry information on",
+    "72": "Study the four statements (A\u2013D) given below and select the two correct ones out of them:",
+    "73": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of",
+    "74": "Which one of the following is not a correct statement?",
+    "75": "Maximum nutritional diversity is found in the group",
+    "76": "Which one of the following aspects is an exclusive characteristic of living things?",
+    "77": "The living organisms can be unexceptionally distinguished from the non living things on the basis of their ability for",
+    "78": "ICBN stands for",
+    "79": "Two plants can be conclusively said to belong to the same species if they:",
+    "80": "Biosystematics aims at",
+    "81": "The common characteristics between tomato and potato will be maximum at the level of their",
+    "82": "Taxonomic hierarchy refers to",
+    "83": "\u2018Taxon\u2019 is the unit of",
+    "84": "The closely related morphologically similar sympatric populations, but reproductively isolated, are designated",
+    "85": "Which of the following is least general in characters as compared to genera?",
+    "86": "Species is considered as",
+    "87": "Which of the following is not true for a species?",
+    "88": "One of the most important function of botanical gardens is that",
+    "89": [
+      "A : Members of a species are reproductively isolated from the members of other species.",
+      "R : Species is the basic taxonomic category."
+    ],
+    "90": [
+      "A : Panthera is a polytypic genera.",
+      "R : Panthera has specific epithets like leo, tigris, pardus."
+    ],
+    "91": [
+      "A : A group of closely related families form an order.",
+      "R : The families of an order show close resemblance in certain fundamental features and also in evolutionary"
+    ],
+    "92": [
+      "A : Biological concept of species is based on reproductive isolation.",
+      "R : Most accepted species concept was given by Linnaeus."
+    ],
+    "93": [
+      "A : Synonyms are concerned with one of the most important rules of ICBN.",
+      "R : Out of the two or more scientific names given to the organism, the oldest name is recognized as valid name"
+    ],
+    "94": [
+      "A : Botanical gardens are ex-situ conservation strategy of plants.",
+      "R : National Botanical Garden is situated at Howrah."
+    ],
+    "95": [
+      "A : Two plants A and B are treated as two taxonomic species.",
+      "R : Both A and B are different in correlated characters."
+    ],
+    "96": [
+      "A : Species is a genetically closed system.",
+      "R : Because the reproductive isolation constitutes the most important boundary between different species."
+    ],
+    "97": [
+      "A : Scientific names for plants have been standarized through ICBN.",
+      "R : Naming system which uses three word format was given by Linnaeus."
+    ],
+    "98": [
+      "A : Dried specimens are poisoned by HgCl2.",
+      "R : It protects the specimen from the moisture."
+    ],
+    "99": [
+      "R : It protects the specimen from the moisture.",
+      "Sol. Answer (3)"
+    ]
+  },
+  "Multiple choice options": {
+    "0": [
+      "(1) Growth",
+      "(2) Repair",
+      "(3) Metabolism",
+      "(4) Reproduction"
+    ],
+    "1": [
+      "(1) Hydra  \u2013  Budding",
+      "(2) Flatworm \u2013 Regeneration",
+      "(3) Amoeba  \u2013 Fragmentation",
+      "(4) Yeast \u2013 Budding"
+    ],
+    "2": [
+      "(1) Unicellular organisms reproduce by cell division",
+      "(2) Reproduction is a characteristic of all living organisms",
+      "(3) In unicellular organisms, reproduction and growth are linked together",
+      "(4) Non-living objects are incapable of reproducing"
+    ],
+    "3": [
+      "(1) Microbes exhibit the metabolism",
+      "(2) It is the property of all living forms",
+      "(3) The metabolic reactions can be demonstrated in-vitro",
+      "(4) It is not a defining feature of life forms"
+    ],
+    "4": [
+      "(1) Property of self-replication",
+      "(2) Evolution",
+      "(3) Self-regulating interactive systems",
+      "(4) Reversible growth"
+    ],
+    "5": [
+      "(1) The growth occurs from outside",
+      "(2) The growth is reversible",
+      "(3) The growth is due to the accumulation of material on the surface",
+      "(4) The growth is intrinsic"
+    ],
+    "6": [
+      "(1) Help in recognizing organisms worldwide",
+      "(2) Are used universally",
+      "(3) Are specific and distinct names",
+      "(4) Vary from place to place"
+    ],
+    "7": [
+      "(1) Biological names are generally in Latin",
+      "(2) The first word in a biological name represents the genus",
+      "(3) Biological names are printed in italics",
+      "(4) The first word of the genus starts with a small letter"
+    ],
+    "8": [
+      "(1) Generic name, specific name and author\u2019s name",
+      "(2) Specific name, generic name and author\u2019s name",
+      "(3) Author\u2019s name, specific name and generic name",
+      "(4) Generic name, author\u2019s name and specific name"
+    ],
+    "9": [
+      "(1) These are also known as common names",
+      "(2) These ensure that each organism has only one name",
+      "(3) These have two components \u2013 the generic name and specific epithet",
+      "(4) These are universally accepted names"
+    ],
+    "10": [
+      "(1) Two scientific names with single component",
+      "(2) One scientific name with two components",
+      "(3) Two names, one Latin and other common",
+      "(4) One common name with three components"
+    ],
+    "11": [
+      "(1) A group of individual organisms with fundamental similarities",
+      "(2) Two different species breed together to produce fertile offsprings",
+      "(3) Human beings belong to the species sapiens",
+      "(4) Panthera has many specific epithet as tigris, leo and pardus"
+    ],
+    "12": [
+      "(1) Development of zoological parks",
+      "(2) Study of kinds and diversity of microorganisms only",
+      "(3) Evolutionary relationships between organisms",
+      "(4) Classification of diverse organisms in different taxa"
+    ],
+    "13": [
+      "(1) They consists of two components",
+      "(2) They have Latin origin",
+      "(3) They always have \u201clinn\u201d abbreviation at the end of second component",
+      "(4) They are printed in italics"
+    ],
+    "14": [
+      "(1) First classification then identification, nomenclature and characterization",
+      "(2) First identification then classifying organism and then characterizations and nomenclature",
+      "(3) First nomenclature then characterization, identification and classification",
+      "(4) First characterisation then identification and  classification and then nomenclature"
+    ],
+    "15": [
+      "(1) Generic names and specific epithet should be in Latin words",
+      "(2) Generic name is immediately followed by name of taxonomists who described it firstly",
+      "(3) Generic name must begin with capital letter",
+      "(4) All letters of the specific name must be small"
+    ],
+    "16": [
+      "(1) Division \uf0ae Kingdom \uf0ae Genus \uf0ae Order",
+      "(2) Species \uf0ae Genus \uf0ae Family \uf0ae Order",
+      "(3) Class \uf0ae Order \uf0ae Family \uf0ae Division",
+      "(4) Kingdom \uf0ae Class \uf0ae Species \uf0ae Order"
+    ],
+    "17": [
+      "(1) Mammalia",
+      "(2) Sapindales",
+      "(3) Primate",
+      "(4) Poales"
+    ],
+    "18": [
+      "(1) Class",
+      "(2) Genus",
+      "(3) Species",
+      "(4) Order"
+    ],
+    "19": [
+      "(1) A - Genus; B - Species",
+      "(2) A - Family; B - Class",
+      "(3) A - Class; B - Family",
+      "(4) A - Species; B - Division"
+    ],
+    "20": [
+      "(1) a(i), b(iii), c(iii), d(ii)",
+      "(2) a(i), b(iii), c(ii), d(i)",
+      "(3) a(ii), b(i), c(i), d(iii)",
+      "(4) a(iii), b(i), c(ii), d(i)"
+    ],
+    "21": [
+      "(1) Family and Species",
+      "(2) Class and Family",
+      "(3) Order and Phylum",
+      "(4) Kingdom and Class"
+    ],
+    "22": [
+      "(1) Poaceae",
+      "(2) Anacardiaceae",
+      "(3) Hominidae",
+      "(4) Solanaceae"
+    ],
+    "23": [
+      "(1) Felidae and Hominidae",
+      "(2) Muscidae and Felidae",
+      "(3) Poaceae and Canidae",
+      "(4) Felidae and Canidae"
+    ],
+    "24": [
+      "(1) Ecological information of organisms",
+      "(2) Development process",
+      "(3) External and internal structure",
+      "(4) External structure"
+    ],
+    "25": [
+      "(1) Genus and species",
+      "(2) Tribe and genus",
+      "(3) Division and phylum",
+      "(4) Species and family"
+    ],
+    "26": [
+      "(1) Solanaceae, Convolvulaceae and Poaceae",
+      "(2) Polymoniales, Poales and Sapindales",
+      "(3) Solanum, Petunia and Atropa",
+      "(4) Leopard, tiger and lion"
+    ],
+    "27": [
+      "(1) Solanaceae, Convolvulacea, Poaceae \u2013 Family",
+      "(2) Polymoniales, Poales, Sapindales \u2013 Order",
+      "(3) Solunum, Petunia and Atropa \u2013 Genus",
+      "(4) Leopard , Tiger, Lion \u2013 Species"
+    ],
+    "28": [
+      "(1) Order, phylum, family, species",
+      "(2) Order, family, genus, species",
+      "(3) Division, family, order, genus",
+      "(4) Order, division, genus, species"
+    ],
+    "29": [
+      "(1) One biological species",
+      "(2) Two distinct species",
+      "(3) One biological genera",
+      "(4) Two distinct genera"
+    ],
+    "30": [
+      "(1) Herbaria",
+      "(2) Botanical Garden",
+      "(3) Museum",
+      "(4) Zoos"
+    ],
+    "31": [
+      "(1) Collection of living plants",
+      "(2) Collection of plant and animal specimens preserved in the containers",
+      "(3) Preserved insects in boxes after collecting killing and pinning",
+      "(4) Herbarium sheets carrying dried, pressed and preserved plant specimens on them"
+    ],
+    "32": [
+      "(1) Dried and preserved plant specimens only",
+      "(2) Collection of preserved plant and animal specimens",
+      "(3) Flora, manuals and monographs only",
+      "(4) Collection of living plants for reference"
+    ],
+    "33": [
+      "(1) A form of herbaria",
+      "(2) A type of educational institute",
+      "(3) A taxonomical aid used for identifying various organisms",
+      "(4) Taxonomic category"
+    ],
+    "34": [
+      "(1) Kept and preserved in containers or jars",
+      "(2) Preserved in boxes after killing",
+      "(3) Kept in protected environments under human care",
+      "(4) Stuffed and then preserved"
+    ],
+    "35": [
+      "(1) Two contrasting characters are used",
+      "(2) One similar character is studied",
+      "(3) Two or more similar characters are used",
+      "(4) Only one statement called lead is used"
+    ],
+    "36": [
+      "(1) Growth by increase in mass is a defining property of prokaryotic organisms only",
+      "(2) Non-living objects do not show growth by increase in mass of body",
+      "(3) Intrinsic growth is a characteristic of all living organisms",
+      "(4) Growth can be extrinsic or intrinsic for multicellular organisms"
+    ],
+    "37": [
+      "(1) Most of the fungi and Planaria",
+      "(2) Desmids, diatoms and protozoans",
+      "(3) Cyanobacteria, fungi and mosses",
+      "(4) Mosses, algae and hydra"
+    ],
+    "38": [
+      "(1) Genera Plantarum",
+      "(2) Binomial nomenclature",
+      "(3) Described nearly ten thousand plants and animal species",
+      "(4) Die Naturlichen Pflanzen Familien"
+    ],
+    "39": [
+      "(1) Two Latin names only",
+      "(2) Two Italics names written in Latin",
+      "(3) Two Latin names and author's name in Italics",
+      "(4) Two Latin names followed by author's name in Roman"
+    ],
+    "40": [
+      "(1) Diversity amongst groups of organisms",
+      "(2) Grouping of organisms",
+      "(3) Identification and grouping of organisms",
+      "(4) Identification, classification and taxonomy"
+    ],
+    "41": [
+      "(1) Ecological information of organisms",
+      "(2) Development process",
+      "(3) External and internal structure",
+      "(4) All of these"
+    ],
+    "42": [
+      "(1) Systema Naturae",
+      "(2) Classes Plantarum",
+      "(3) Hortus Cliffortianus",
+      "(4) Hortus Upplandicus"
+    ],
+    "43": [
+      "(1) Binomial nomenclature",
+      "(2) Tautonyms",
+      "(3) Synonyms",
+      "(4) Both (1) & (2)"
+    ],
+    "44": [
+      "(1) Three",
+      "(2) Two",
+      "(3) Four",
+      "(4) Five"
+    ],
+    "45": [
+      "(1) Species",
+      "(2) Tribe",
+      "(3) Genus",
+      "(4) Sub-genus"
+    ],
+    "46": [
+      "(1) Division\u2014class\u2014family\u2014tribe\u2014order\u2014genus \u2014species",
+      "(2) Division\u2014class\u2014order\u2014family\u2014tribe\u2014genus \u2014species",
+      "(3) Phylum\u2014order\u2014class\u2014tribe\u2014family\u2014genus\u2014species",
+      "(4) Class\u2014phylum\u2014tribe\u2014order\u2014family\u2014genus\u2014species"
+    ],
+    "47": [
+      "(1) Interfertile",
+      "(2) Not interfertile",
+      "(3) Do not grow together in a common habitat",
+      "(4) Growing together in a common habitat"
+    ],
+    "48": [
+      "(1) Polytypic",
+      "(2) Monotypic",
+      "(3) Polygamic",
+      "(4) Both (1) & (3)"
+    ],
+    "49": [
+      "(1) Anacardiaceae, Convolvulaceae and Poaceae",
+      "(2) Polymoniales, Poales and Sapindales",
+      "(3) Solanum, Petunia and Atropa",
+      "(4) Leopard, tiger and lion"
+    ],
+    "50": [
+      "(1) Genus and species",
+      "(2) Variety and genus",
+      "(3) Division and phylum",
+      "(4) Species and family"
+    ],
+    "51": [
+      "(1) Different taxa at different level",
+      "(2) Same taxa of different category",
+      "(3) Different category of same taxa",
+      "(4) Same category for different taxa"
+    ],
+    "52": [
+      "(1) Homo and Musca",
+      "(2) Hominidae and Muscidae",
+      "(3) Mammalia and Insecta",
+      "(4) Primata and Diptera"
+    ],
+    "53": [
+      "(1) -phyta",
+      "(2) -opsida",
+      "(3) -phyceae",
+      "(4) -ae"
+    ],
+    "54": [
+      "(1) Lamarck; physiological isolation",
+      "(2) Linnaeus; morphological isolation",
+      "(3) Ernst Mayr; mechanical isolation",
+      "(4) Ernst Mayr; reproductive isolation"
+    ],
+    "55": [
+      "(1) Genus",
+      "(2) Family",
+      "(3) Class",
+      "(4) Species"
+    ],
+    "56": [
+      "(1) Hominidae",
+      "(2) Mammalia",
+      "(3) Insecta",
+      "(4) Chordata"
+    ],
+    "57": [
+      "(1) Order",
+      "(2) Class",
+      "(3) Genus",
+      "(4) Phylum"
+    ],
+    "58": [
+      "(1) Common name of tiger",
+      "(2) Panthera represents generic name",
+      "(3) leo represents specific epithet",
+      "(4) Panthera represents higher level of taxon than leo"
+    ],
+    "59": [
+      "(1) They belong to single species",
+      "(2) They are a group of related species",
+      "(3) They both are morphologically and structurally similar to each other in all respects",
+      "(4) They can always produce fertile hybrid"
+    ],
+    "60": [
+      "(1) Order carnivora only",
+      "(2) Families like felidae and canidae only",
+      "(3) Related orders like carnivora, primata, etc.",
+      "(4) All animals belonging to various phyla"
+    ],
+    "61": [
+      "(1) Phylum \u2013 Arthropoda",
+      "(2) Phylum \u2013 Angiospermae",
+      "(3) Division \u2013 Angiospermae",
+      "(4) Class \u2013 Angiospermae"
+    ],
+    "62": [
+      "(1) \u201caceae\u201d",
+      "(2) \u201cales\u201d",
+      "(3) \u201cphyta\u201d",
+      "(4) \u201cae\u201d"
+    ],
+    "63": [
+      "(1) Mere morphological aggregates",
+      "(2) Distinct biological entities",
+      "(3) International codes used for nomenclature",
+      "(4) Collection of organisms on structural similarities only"
+    ],
+    "64": [
+      "(1) Phylum",
+      "(2) Order",
+      "(3) Division",
+      "(4) Genus"
+    ],
+    "65": [
+      "(1) One",
+      "(2) Three",
+      "(3) Two",
+      "(4) Four"
+    ],
+    "66": [
+      "(1) Hg2Cl2",
+      "(2) AgNO3",
+      "(3) HCl",
+      "(4) HgCl2"
+    ],
+    "67": [
+      "(1) 41 \u00d7 29 cm",
+      "(2) 40 \u00d7 30 inches",
+      "(3) 42 \u00d7 20 cm",
+      "(4) 39 \u00d7 28 cm"
+    ],
+    "68": [
+      "(1) c, a, b, e, g, d, f",
+      "(2) c, b, d, e, f, g, a",
+      "(3) c, a, b, e, g, f, d",
+      "(4) c, a, b, g, e, f, d"
+    ],
+    "69": [
+      "(1) a(ii), b(iii), c(iv), d(i)",
+      "(2) a(i), b(iv), c(ii), d(iii)",
+      "(3) a(iv), b(i), c(iii), d(ii)",
+      "(4) a(iv), b(i), c(ii), d(iii)"
+    ],
+    "70": [
+      "(1) Museum",
+      "(2) Zoological parks",
+      "(3) Botanical gardens",
+      "(4) More than one option is correct"
+    ],
+    "71": [
+      "(1) Date of collection",
+      "(2) Name of collector",
+      "(3) Local names",
+      "(4) Height of the plant"
+    ],
+    "72": [
+      "(1) B and C",
+      "(2) C and D",
+      "(3) A and D",
+      "(4) A and B"
+    ],
+    "73": [
+      "(1) When written by hand, the names are to be underlined",
+      "(2) Biological names can be written in any language",
+      "(3) The first word in a biological name represents the genus name and the second is a specific epithet",
+      "(4) The names are written in Latin and are italicised"
+    ],
+    "74": [
+      "(1) Botanical gardens have collection of living plants for reference",
+      "(2) A museum has collection of photographs of plants and animals",
+      "(3) Key is a taxonomic aid for identification of specimens",
+      "(4) Herbarium houses dried, pressed and preserved plant specimens"
+    ],
+    "75": [
+      "(1) Plantae",
+      "(2) Fungi",
+      "(3) Animalia",
+      "(4) Monera"
+    ],
+    "76": [
+      "(1) Perception of events happening in the environment and their memory",
+      "(2) Increase in mass by accumulation of material both on surface as well as internally",
+      "(3) Isolated metabolic reactions occur in-vitro",
+      "(4) Increase in mass from inside only"
+    ],
+    "77": [
+      "(1) Growth and movement",
+      "(2) Responsiveness to touch",
+      "(3) Interaction with the environment and progressive evolution",
+      "(4) Reproduction"
+    ],
+    "78": [
+      "(1) Indian Code of Botanical Nomenclature",
+      "(2) Indian Congress of Biological Names",
+      "(3) International Code of Botanical Nomenclature",
+      "(4) International Congress of Biological Names"
+    ],
+    "79": [
+      "(1) Have same number of chromosomes",
+      "(2) Can reproduce freely with each other and form seeds",
+      "(3) Have more than 90 per cent similar genes",
+      "(4) Look similar and possess identical secondary metabolites"
+    ],
+    "80": [
+      "(1) The classification of organisms based on broad morphological characters",
+      "(2) Delimiting various taxa of organisms and establishing their relationships",
+      "(3) The classification of organisms based on their evolutionary history and establishing their phylogeny on",
+      "(4) Identification and arrangement of organisms on the basis of their cytological characteristics"
+    ],
+    "81": [
+      "(1) Genus",
+      "(2) Family",
+      "(3) Order",
+      "(4) Division"
+    ],
+    "82": [
+      "(1) Step-wise arrangement of all categories for classification of plants and animals",
+      "(2) A group of senior taxonomists who decide the nomenclature of plants and animals",
+      "(3) A list of botanists or zoologists who have worked on taxonomy of a species or group",
+      "(4) Classification of a species based on fossil record"
+    ],
+    "83": [
+      "(1) Order",
+      "(2) Taxonomy",
+      "(3) Species",
+      "(4) Genus"
+    ],
+    "84": [
+      "(1) Clones",
+      "(2) Sibling species",
+      "(3) Clines",
+      "(4) Demes"
+    ],
+    "85": [
+      "(1) Species",
+      "(2) Division",
+      "(3) Class",
+      "(4) Family"
+    ],
+    "86": [
+      "(1) Real basic unit of classification",
+      "(2) The lowest unit of biosystematics",
+      "(3) Artificial concept of human mind which cannot be defined in absolute terms",
+      "(4) Real units of classification devised by taxonomists"
+    ],
+    "87": [
+      "(1) Members of a species can interbreed",
+      "(2) Gene flow does not occur between the populations of a species",
+      "(3) Each species is reproductively isolated from every other species",
+      "(4) Variations occur among members of a species"
+    ],
+    "88": [
+      "(1) They provide a beautiful area for recreation",
+      "(2) One can observe tropical plants there",
+      "(3) They allow ex-situ conservation of germplasm",
+      "(4) They provide the natural habitat for wildlife"
+    ]
+  },
+  "answer": {
+    "1": "Growth, repair and reproduction are the result of cell division.",
+    "2": "Amoeba divides by binary fission",
+    "3": "Reproduction is absent in sterile organism like mule, hinny, sterile/infertile human couples, worker bees etc.",
+    "4": "Metabolism is a defining feature.",
+    "5": "Non-living objects do not show-",
+    "6": "The growth shown by non-living objects is extrinsic.",
+    "7": "Local names of various plants and animals are non-universal.",
+    "8": "In Binomial nomenclature, genus always starts with a capital letter.",
+    "9": "In binomial nomenclature, Ist name is genus, 2nd is species epithet and 3rd is author's name (optional).",
+    "10": "Scientific names are given by biologist based upon agreed rules and criteria.",
+    "11": "Every living organism has one scientific name with two components.",
+    "12": "Two different species cannot breed together to produce fertile offsprings.",
+    "13": "Taxonomy is classification of diverse organisms in different taxa.",
+    "14": "In scientific names author's name is optional and written in abbreviated roman.",
+    "15": "Correct sequence of taxonomic study is",
+    "16": "Fact based",
+    "17": "Correct sequence of taxonomic categories.",
+    "18": "Mammalia",
+    "19": "Species \uf0ae Genus \uf0ae Family\uf0ae Order\uf0ae Class\uf0ae Division\uf0ae Kingdom",
+    "20": "Fact based",
+    "21": "Binomial nomenclature",
+    "22": "Species \uf0ae Genus \uf0ae Family",
+    "23": "Genera  \u2013 Solanum, Petunia, Datura",
+    "24": "Animal \u2013 Cat",
+    "25": "Basis of modern taxonomic studies.",
+    "26": "Division and Phylum are at very next higher rank and they have lower number of similarity",
+    "27": "(1) Solanaceae, Convolvulacea, Poaceae \u2013 Family",
+    "28": "Class",
+    "29": "Morphological feature",
+    "30": "Storing, preservation",
+    "31": "Herbarium consists of dried, pressed and preserved plant specimens.",
+    "32": "NBRI is a botanical garden, collection of living plants for reference.",
+    "33": "Key, a taxonomical aid, used for classification.",
+    "34": "Zoological parks, animals are kept in protected environments under human care.",
+    "35": "Key, a taxonomical aid, has two contrasting characters.",
+    "36": "Intrinsic growth is a characteristic of all living organisms while in non-living thing extrinsic growth is possible/",
+    "37": "Reproduction is synonymous with growth in unicellular organisms like- desmids, diatoms and protozoans.",
+    "38": "Carolus Linnaeus\u2019s contribution in taxonomy is \u2013 Binomial nomenclature",
+    "39": "Binomial epithet has \u2013 two Latin names followed by author's name in Roman.",
+    "40": "Systematics, study of diversity amongst groups of organisms.",
+    "41": "Modern taxonomic studies are",
+    "42": "Publications of Carolus Linnaeus",
+    "43": "Rattus rattus",
+    "44": "Animal",
+    "45": "Species",
+    "46": "Hierarchy of taxonomic categories",
+    "47": "Reproductively isolated two species \u2013 Not interfertile",
+    "48": "Polytypic genus \u2013 A genus having many species",
+    "49": "Orders have less similarities than family, genus and species.",
+    "50": "Higher the categories in hierarchy will be lesser similarities and will show difficulty of determining the",
+    "51": "Rice,   Cereals,   Monocots,   Plants",
+    "52": "Animal",
+    "53": "\u2013",
+    "54": "Biological concept of species",
+    "55": "Phylum \uf0ae Class",
+    "56": "Order ",
+    "57": "Fishes",
+    "58": "Panthera leo is common name of lion.",
+    "59": "Potato and Brinjal are a group of related species.",
+    "60": "Order",
+    "61": "Class",
+    "62": "Species",
+    "63": "Various taxonomic categories are distinct biological entities",
+    "64": "Class \uf0ae Division \uf0ae Kingdom",
+    "65": "Preservation of specimens is done in taxonomic aids",
+    "66": "Poisoning chemical for the specimens \u2013 HgCl2",
+    "67": "International size of herbarium sheet is 41 \u00d7 29 cm",
+    "68": "Correct sequence",
+    "69": "Ex-situ conservation",
+    "70": "Live specimens",
+    "71": "The herbarium sheets carry a label providing information about date and place of collection, english, local and",
+    "72": "Photoperiod affect reproduction in plants.",
+    "73": "Biological names originate from latin language and printed in italics",
+    "74": "A museum has collection of speciman of plants and animals.",
+    "75": "6.",
+    "76": "Increase in mass from inside only is an exclusive characteristic of living things.",
+    "77": "Defining features are",
+    "78": "ICBN \uf0de International Code of Botanical Nomenclature.",
+    "79": "Two same species can reproduce freely with each other and form seeds.",
+    "80": "Biosystematics \u2013 Classification based on their ontogeny and phylogeny.",
+    "81": "Tomato and Potato will be maximum at the family level.",
+    "82": "Taxonomic hierarchy, step-wise arrangement of all categories for classification of plants and animals.",
+    "83": "Taxon is the unit of taxonomy.",
+    "84": "Sibling species :",
+    "85": "Species is least general in characters as compared to genera.",
+    "86": "Species is real basic unit of classification.",
+    "87": "Gene flow occurs between the populations of a species.",
+    "88": "Botanical gardens \u2013 Ex-situ conservation of germplasm.",
+    "89": "Assertion & Reason both are corect but not explanation of assertion.",
+    "90": "Panthera is a polytypic genera because it has more than two specific epithets like \u2013 leo, tigris, pardus.",
+    "91": "Assertion and reason both are correct and also correct explanation.",
+    "92": "Biological concept of species, given by Ernst Mayr.",
+    "93": "Assertion and Reason both are correct and correct explanation.",
+    "94": "National Botanical Garden is situated at Lucknow.",
+    "95": "Assertion and Reason both are correct and also gives correct explanation.",
+    "96": "Species is a genetically closed system because the reproductive isolation constitutes the most important",
+    "97": "Trinomial nomenclature was given by Lamark.",
+    "98": "HgCl2 protects the specimen from the microbes."
+  }
+}
